@@ -2,7 +2,7 @@
 .vscode
 
 # code outputs
-targets/
+build/
 
 # Prerequisites
 *.d
