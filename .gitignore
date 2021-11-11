@@ -1,6 +1,9 @@
 # visual studio code
 .vscode
 
+# documentation
+docs/
+
 # code outputs
 build/
 
